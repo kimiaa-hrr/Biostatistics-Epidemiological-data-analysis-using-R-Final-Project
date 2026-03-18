@@ -8,3 +8,11 @@ The project includes:
 - Descriptive and exploratory statistical analysis 
 - Conducting a **meta-analysis** on selected variables to synthesize findings across subgroups 
 - Visualizing key outcomes and trends 
+
+
+## Project Structure
+│
+├── kiggs_kimia.Rdata                  # Dataset
+├── Biostatistics_Final_Project.Rmd    # RMarkdown code
+├── Biostatistics_Final_Project.pdf    # Knitted PDF report
+└── README.md                          # Project overview
